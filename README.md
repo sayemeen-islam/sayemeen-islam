@@ -1,7 +1,7 @@
 ![My Profile Banner](banner.png)
 
 # Hi 👋, I'm Sayemeen Islam  
-### 🔭 I build things with JavaScript, React, and Node.js
+### 🔭 I build things with JavaScript and React
 
 ---
 
@@ -34,7 +34,7 @@ Beyond coding, I have a deep appreciation for **nature**. I find that the comple
 
 ## 🌐 Connect With Me  
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:antuislam2652@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:antuislam2652@gmail.com) ![Discord](https://shields.io) **Username:** @sayemeen_islam
 
 ---
 
