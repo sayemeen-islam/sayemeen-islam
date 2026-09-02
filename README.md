@@ -42,7 +42,7 @@ Beyond coding, I have a deep appreciation for **nature**. I find that the comple
 
 | GitHub Stats | Most Used Languages |
 | :---: | :---: |
-| ![Your GitHub Stats](https://vercel.app) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=default) |
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sayemeen-islam&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayemeen-islam&layout=compact&theme=default) |
 
 ---
 
