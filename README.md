@@ -1,3 +1,5 @@
+![My Profile Banner](banner.png)
+
 # Hi 👋, I'm Sayemeen Islam  
 ### 🔭 I build things with JavaScript, React, and Node.js
 
