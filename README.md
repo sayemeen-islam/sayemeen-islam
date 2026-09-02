@@ -34,7 +34,7 @@ Beyond coding, I have a deep appreciation for **nature**. I find that the comple
 
 ## 🌐 Connect With Me  
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:antuislam2652@gmail.com)
 
 ---
 
@@ -42,8 +42,8 @@ Beyond coding, I have a deep appreciation for **nature**. I find that the comple
 
 | GitHub Stats | Most Used Languages |
 | :---: | :---: |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=default) |
+| ![Your GitHub Stats](https://vercel.app) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=default) |
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=sayemeen-islam&style=flat-square)
