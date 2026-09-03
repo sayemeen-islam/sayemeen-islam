@@ -34,15 +34,7 @@ Beyond coding, I have a deep appreciation for **nature**. I find that the comple
 
 ## 🌐 Connect With Me  
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:antuislam2652@gmail.com) ![Discord](https://shields.io) **Username:** @sayemeen_islam
-
----
-
-## 📊 GitHub Stats  
-
-| GitHub Stats | Most Used Languages |
-| :---: | :---: |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sayemeen-islam&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayemeen-islam&layout=compact&theme=default) |
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:antuislam2652@gmail.com) [![My Discord (1525143271679070330)](https://img.shields.io/badge/My-Discord-%235865F2.svg)](https://discord.com/users/1525143271679070330)
 
 ---
 
