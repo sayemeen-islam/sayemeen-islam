@@ -34,7 +34,7 @@ Beyond coding, I have a deep appreciation for **nature**. I find that the comple
 
 ## 🌐 Connect With Me  
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:antuislam2652@gmail.com) [![My Discord (1525143271679070330)](https://img.shields.io/badge/My-Discord-%235865F2.svg)](https://discord.com/users/1525143271679070330)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/sayemeen-islam) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antuislam2652@gmail.com) [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1525143271679070330)
 
 ---
 
