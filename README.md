@@ -38,4 +38,4 @@ Beyond coding, I have a deep appreciation for **nature**. I find that the comple
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=sayemeen-islam&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=sayemeen-islam&label=PROFILE+VIEWS&color=0A66C2&style=flat-square)
